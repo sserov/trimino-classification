@@ -1,1 +1,1 @@
-trimino-classification
+A simple algorithm for trimino bones classification
